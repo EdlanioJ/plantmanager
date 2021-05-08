@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img alt="Plantmanager" title="Plantmanager" src=".github/assets/logo.png" width="150px" height="150px" />
+    <img alt="Plant Manager" title="Plant Manager" src=".github/assets/logo.png" width="150px" height="150px" />
 </h1>
-<h2 align="center" size="54px">
-    Plantmanager
-</h2>
+<h1 align="center" size="54px">
+    Plant Manager
+</h1>
 
 <p align="center">
   <a href="#-technology">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
