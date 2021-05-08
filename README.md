@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img alt="Plantmanager" title="Plantmanager" src=".github/assets/logo.png" width="220px" />
+    <img alt="Plantmanager" title="Plantmanager" src=".github/assets/logo.png" width="150px" height="150px" />
 </h1>
-<h4 align="center">
+<h2 align="center" size="54px">
     Plantmanager
-</h4>
+</h2>
 
 <p align="center">
   <a href="#-technology">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -24,7 +24,7 @@ This Project was developed with the following technologies:
 
 ## 💻 Project
 
-<p>Plantmanager is na app that help people finding the best plant for each place in a house and also help taking care of then, managing the watering cycle for each one, notifying the owner the exact time to watering the plant.</p>
+<p>Plant Manager is na app that help people finding the best plant for each place in a house and also help taking care of then, managing the watering cycle for each one, notifying the owner the exact time to watering the plant.</p>
 
 ## :gear: Getting Started
 
@@ -47,7 +47,7 @@ Create a file `.env` with the following template [.env.example](.env.example).
 <p>Run the project in development mode:</>
 
 ```bash
-  $ npm start
+  $ npm run start
   # or
   $ yarn start
 ```
